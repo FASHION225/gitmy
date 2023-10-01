@@ -1,0 +1,29 @@
+.titre{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    text-transform: uppercase;
+    width: 310px;
+}
+
+.titre a{
+    
+}
+
+.head{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    float: right;
+    margin: 0px;
+}
+
+.sec1 img{
+    margin:2px;
+    padding: 2px;
+    width: 200px;
+    height: 500px;
+}
+
+git remote add origin https://github.com/FASHION225/BASE.git
+
